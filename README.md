@@ -16,3 +16,5 @@
 #Tập dữ liệu rác tái chế: https://www.kaggle.com/datasets/lenguyentrung/garbage-onr
 
 #Link gg drive báo cáo, poser và bài báo : https://drive.google.com/drive/folders/1wyfJIgbB-Z22QBSb-RVib2ti4bZvj_tO?usp=sharing
+
+#Link github Source code app ANDROID : https://github.com/trung0199/app
